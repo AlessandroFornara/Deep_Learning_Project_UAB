@@ -37,8 +37,8 @@ This project trains a deep learning model to colourise grayscale images using pr
 
 First clone the repository to your local machine:
 ```
-git clone https://github.com/ML-DL-Teaching/deep-learning-project-2025-dl_team_06.git
-cd deep-learning-project-2025-dl_team_06
+git clone https://github.com/AlessandroFornara/Deep_Learning_Project_UAB.git
+cd Deep_Learning_Project_UAB
 ```
 
 Run the following commands to create and activate the environment:
